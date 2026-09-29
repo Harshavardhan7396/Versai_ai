@@ -1,0 +1,8 @@
+{
+  "name": "Remix Joy Transit AI",
+  "description": "A smart, interactive transportation platform providing campus students with optimized route planning, timetables, and real-time transit status updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
